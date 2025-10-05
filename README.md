@@ -28,8 +28,14 @@ BTR² turns waste into survival assets — enabling **near‑zero waste**, **red
 Upload the `site/` folder to Google Drive and create a public link using "Open with → Google Drive Web server" or any static host (Netlify, Vercel, etc.).
 
 ## Team & Credits
-- Team: (add names/emails)
+- Team: BioFusion Innovators
+- Members:
+  - Shouq Albraiki – 596192@actvet.gov.ae
+  - Alshouq Alhammadi – shouq.alhammadi@hotmail.com
+  - Dana Alrashdi – 597977@aths.ac.ae
+  - Ghaith Alrashdi - Ghaith1mubarak@gmail.com
 - Date: 2025-10-05
+
 
 ## License
 MIT — see `LICENSE`.
