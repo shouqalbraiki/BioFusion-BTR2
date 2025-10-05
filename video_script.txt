@@ -1,0 +1,7 @@
+Narration Script (≤ 30 seconds)
+
+“On Mars, nothing is trash. BioFusion BTR² turns packaging, textiles, and hardware scraps
+into feedstock for repairs and 3D printing. Extremophile microbes digest plastics while a
+NanoDisassembly module separates metals and ceramics. An onboard AI predicts demand and
+orchestrates safe, autonomous cycles. BTR² cuts waste, reduces resupply mass, and boosts
+mission resilience — transforming yesterday’s trash into tomorrow’s tools.”

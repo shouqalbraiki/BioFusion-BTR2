@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "BioFusion Trash-to-Resource Reactor (BTR²)"
+message: "If you use this project, please cite it as below."
+type: software
+authors:
+  - family-names: Your
+    given-names: Team
+version: "1.0.0"
+date-released: "2025-10-05"
+repository-code: "https://github.com/your-team/BioFusion-BTR2"
+license: MIT-0
+abstract: >
+  BioFusion Trash-to-Resource Reactor (BTR²) is a hybrid recycling concept that
+  combines synthetic biology, nanotechnology, and AI to upcycle inorganic waste
+  into usable feedstock for 3D printing and repairs in Martian habitats.
